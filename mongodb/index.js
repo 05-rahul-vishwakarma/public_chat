@@ -12,7 +12,7 @@ export const connectToDB = async () => {
 
   try {
     await mongoose.connect(process.env.MONGODB_URL, {
-      dbName: "EcoChat",
+      dbName: "public_chat",
     });
 
     isConnected = true;
@@ -22,3 +22,6 @@ export const connectToDB = async () => {
     console.log(error);
   }
 };
+
+
+
