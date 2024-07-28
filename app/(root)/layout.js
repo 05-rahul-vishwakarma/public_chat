@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "../globals.css";
 import Provider from "@components/Provider";
 import TopBar from "@components/TopBar";
+import punycode  from "punycode";
 
 const inter = Inter({ subsets: ["latin"] });
 
