@@ -1,4 +1,5 @@
-MONGODB_URL = mongodb+srv://rahul930vishwakarma:SAgSxCPCEwTiRW0u@cluster0.pip6r2f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+MONGODB_URL = mongodb+srv://purnikavishwakarmagrd:9p0JL6KnhCs0Wp2k@cluster0.k9yds9r.mongodb.net/
 NEXTAUTH_SECRET = kfslfisljopdjsdjaoj
 NEXTAUTH_URL = http://localhost:3000
 
